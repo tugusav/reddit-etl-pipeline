@@ -1,6 +1,6 @@
 *.ipynb
 
-config/
+config/config.conf
 venv/
 logs/
 dags/__pycache__
